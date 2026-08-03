@@ -1,7 +1,70 @@
-<h1 align="center">
-  Hi 👋, I'm Atikur Rahman
-</h1>
+---------------------------------------------------
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Software+Developer;Laravel+Developer;PHP+Developer;Backend+Engineer;Always+Learning+New+Things" />
-</p>
+             Animated Wave Header
+
+              Atikur Rahman
+
+        Software Developer
+
+      Laravel | PHP | MySQL
+
+Typing Animation
+
+> Laravel Developer
+> Backend Engineer
+> Software Developer
+> Problem Solver
+
+---------------------------------------------------
+
+👨 About Me
+
+📍 Bangladesh
+
+💼 Software Developer
+
+🌱 Currently Learning
+Laravel API
+React
+System Design
+
+---------------------------------------------------
+
+Tech Stack
+
+Laravel
+PHP
+MySQL
+Bootstrap
+JavaScript
+Git
+
+---------------------------------------------------
+
+GitHub Stats
+
+Language Stats
+
+Contribution Graph
+
+---------------------------------------------------
+
+Featured Projects
+
+🍔 Food Delivery Platform
+
+📝 Medium Clone
+
+📱 Social Media
+
+---------------------------------------------------
+
+Connect
+
+LinkedIn
+Portfolio
+Email
+
+---------------------------------------------------
+
+Animated Footer
