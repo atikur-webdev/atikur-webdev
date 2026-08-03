@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2>💻 Atikur Rahman</h2>
+<h1>Atikur Rahman</h1>
 
 <br>
 
