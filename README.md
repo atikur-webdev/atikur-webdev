@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=34&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Atikur+Rahman;Software+Developer;Laravel+Backend+Developer;Always+Learning+New+Things" />
+<h3>💻 Atikur Rahman</h3>
 
 <br>
 
-<h3>💻 Software Developer from Bangladesh</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=34&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Atikur+Rahman;Software+Developer;Laravel+Backend+Developer;Always+Learning+New+Things" />
+
+<br>
 
 <p>
 Passionate about building scalable web applications with Laravel, PHP, MySQL and modern web technologies.
