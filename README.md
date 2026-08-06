@@ -30,8 +30,7 @@ Passionate about building scalable web applications with Laravel, PHP, MySQL and
 - 🔭 Currently working as **Software Developer**
 - 🌱 Learning **React & System Design**
 - 💼 Backend Developer specializing in **Laravel**
-- 🚀 Building a **Food Delivery Platform**
-- 📍 Bangladesh
+- 📍 Asia
 
 ---
 
