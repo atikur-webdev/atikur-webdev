@@ -36,7 +36,7 @@ Passionate about building scalable web applications with Laravel, PHP, MySQL and
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
 
 <img
   height="180em"
@@ -48,17 +48,17 @@ Passionate about building scalable web applications with Laravel, PHP, MySQL and
   src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=atikur-webdev&layout=compact&theme=github_dark&hide_border=true"
 />
 
-</p>
+</p> -->
 
 ---
 
 ## 🔥 GitHub Streak
 
-<p align="center">
+<!-- <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true">
 
-</p>
+</p> -->
 
 ---
 
