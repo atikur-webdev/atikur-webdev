@@ -77,26 +77,63 @@ I'm a Software Developer focused on building reliable and scalable web applicati
 
 ---
 
-## 🔥 GitHub Streak
+---
 
-<!-- <p align="center">
+## 📊 GitHub Statistics
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true">
+<p align="center">
 
-</p> -->
+<img
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api?username=atikur-webdev&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+/>
+
+<img
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=atikur-webdev&layout=compact&theme=github_dark&hide_border=true"
+/>
+
+</p>
 
 ---
 
-## 🚀 Featured Project
+## 🔥 GitHub Streak
 
-🍔 **Food Delivery Platform**
+<p align="center">
 
-- Multi Authentication
-- Restaurant Panel
-- Rider API
-- Admin Dashboard
-- Payment System
-- Order Tracking
+<img
+  src="https://streak-stats.demolab.com?user=atikur-webdev&theme=github-dark-blue&hide_border=true"
+/>
+
+</p>
+
+---
+
+## 🚀 What I Build
+
+I focus on developing backend-driven web applications with an emphasis on
+clean architecture, maintainable code, and reliable APIs.
+
+### Backend Development
+- RESTful API development with **Laravel**
+- Authentication & authorization systems
+- Database design and optimization with **MySQL**
+- Role-based access control
+- Payment and transaction workflows
+- Third-party API integrations
+
+### Full-Stack Development
+- Building modern interfaces with **React**
+- Integrating React applications with Laravel APIs
+- Developing responsive web applications
+- Working with modern JavaScript technologies
+
+### Engineering Focus
+- Clean and maintainable code
+- Scalable application architecture
+- Database-driven systems
+- API design and integration
+- System design fundamentals
 
 ---
 
@@ -105,7 +142,7 @@ I'm a Software Developer focused on building reliable and scalable web applicati
 <p align="center">
 
 <a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="mailto:atikur.codes@gmail.com">
