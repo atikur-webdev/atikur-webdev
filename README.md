@@ -50,10 +50,12 @@ Passionate about building scalable web applications with Laravel, PHP, MySQL and
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working as **Software Developer**
-- 🌱 Learning **React & System Design**
-- 💼 Backend Developer specializing in **Laravel**
-- 📍 Asia
+I'm a Software Developer focused on building reliable and scalable web applications.
+
+- 💻 Backend development with **Laravel, PHP & MySQL**
+- ⚛️ Currently expanding my skills with **React**
+- 🏗️ Interested in **API development, system design & scalable architectures**
+- 🚀 Passionate about writing clean, maintainable and efficient code
 
 ---
 
