@@ -1,4 +1,10 @@
 <div align="center">
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="atikur-webdev's GitHub profile" src="dark_mode.svg" />
+</picture>
 
 <h1>Atikur Rahman</h1>
 
@@ -150,9 +156,3 @@ clean architecture, maintainable code, and reliable APIs.
 </a>
 
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="atikur-webdev's GitHub profile" src="dark_mode.svg" />
-</picture>
