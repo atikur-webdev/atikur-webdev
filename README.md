@@ -1,12 +1,11 @@
 <div align="center">
+<h1>Atikur Rahman</h1>
   
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
   <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
   <img alt="atikur-webdev's GitHub profile" src="dark_mode.svg" />
 </picture>
-
-<h1>Atikur Rahman</h1>
 
 <br>
 
